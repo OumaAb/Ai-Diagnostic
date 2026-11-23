@@ -1,0 +1,5 @@
+# Modèles, secrets, données
+*.pt 
+*.pem
+.env
+data/
