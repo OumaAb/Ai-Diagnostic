@@ -1,0 +1,3 @@
+exp_id,arch,lr,batch,epochs_run,val_auc,val_sens,val_spec,minutes
+E1_resnet50_lr1e-4,resnet50,0.0001,32,10,0.9971,0.9722,0.9759,9.4
+E2_densenet121_lr1e-4,densenet121,0.0001,32,8,0.997,0.9874,0.9759,5.9
